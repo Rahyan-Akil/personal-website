@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+    padding:0px;
+}
+h1{
+    font-size:40px;
+}
+h2{
+    font-size: 35px;
+}
+h5{
+    color:white;
+}
+p{
+    color:dimgray;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height:550px;
+    background-repeat: no-repeat;
+    padding:50px 150px;
+}
+/* header section start*/
+.header-section{
+    background-image: url(images/header-bg.png);
+    background-size:100% 100%;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 6%;
+    padding-left:2%;
+
+}
+.half-width img{
+    width:100%;
+}
+.pink-highlight{
+    color:rgb(207, 36, 64);
+}
+.text{
+    margin-top: 100px;
+}
+/* header section end*/
+/* biography section start*/
+
+.biography-section{
+    background-image:url(images/biography-bg.png);
+    background-size:100% 100%;
+}
+
+/* biography section end*/
+/* latestwork section start*/
+  .latestwork-section{
+      background-image:url(images/latest-work-bg.png);
+      background-size:100% 100%;
+  }
+  .latestwork-section h2{
+      text-align: center;
+      padding-top:100px;
+  }
+.three-part{
+    width:25%;
+    float:left;
+    margin-left: 6%;
+    padding-left:2%;
+    padding:100px 0px;
+
+}
+.three-part img{
+    width:80%;
+}
+/* latestwork section end*/
+/* footer section start*/
+.footer-section{
+    text-align: center;
+    background-image:url(images/footer-bg.png);
+    
+}
+.footer-box{
+    height:150px;
+    width:700px;
+    background-color:rgb(209, 64, 88);
+    padding:20px;
+    border-radius: 10px;
+     margin-left:140px;
+     margin-top:60px;
+}
+.footer-box a{
+    color:white;
+    text-decoration: none;
+   
+}
+
+/* footer section end*/
